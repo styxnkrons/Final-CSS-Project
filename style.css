@@ -1,0 +1,83 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: auto;
+}
+
+nav{
+    margin: auto;
+}
+
+body{
+    background-image: url(images/meghan-schiereck--2eJaLtf_bI-unsplash.jpg) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+footer{
+text-align: center;
+padding: 15px;
+}
+.fa {
+    padding: 15px;
+    font-size: 80px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    color: rgba(255, 0, 0, 0.582);
+    object-fit: cover;
+  }
+  a{
+      color: rgba(255, 0, 0, 0.582);
+  }
+  h1{
+      font-size: 45px;
+      text-align: center;
+      color: rgba(255, 0, 0, 0.582);
+      border: black;
+        border-style: groove;
+        background-color:gray;
+  }
+  p{
+      text-align: center;
+      font-weight: 600;      
+  }
+  h2{
+    font-size: 30px;
+    text-align: center;
+    color: rgba(12, 4, 4, 0.582);
+    border: black;
+      border-style: groove;
+      background-color:gray;
+  }
+ .center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   
+   
+ }
+#logo{
+    border: black;
+    border-style: double;
+}
+#Store{
+    color: goldenrod;
+
+}
+.card-body{
+    background-color: rgba(255, 0, 0, 0.801);
+    background-repeat: repeat;
+    margin: auto;
+    height: 350px;
+}
+#artists{
+    color: black;
+    text-decoration: underline;
+}
+.gallery{
+    border: rgba(255, 0, 0, 0.705);
+    border-style: double;
+}
+.form-controls{
+    width: auto;
+}
